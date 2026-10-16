@@ -1,0 +1,21 @@
+{
+  "run_name": "high_noise",
+  "gaussian_sigma": 1.2,
+  "noise_std": 30.0,
+  "low_threshold": 40.0,
+  "high_threshold": 100.0,
+  "photo_filename": "camera.png",
+  "seed": 42,
+  "edge_tolerance_px": 2,
+  "canny_aperture": 3,
+  "canny_L2gradient": true,
+  "laplacian_ksize": 3,
+  "zero_crossing_min_range": 20.0,
+  "versions": {
+    "opencv": "4.13.0",
+    "numpy": "2.3.5",
+    "matplotlib": "3.10.8"
+  },
+  "gaussian_kernel_size": 9,
+  "metric_note": "Photo has no boundary truth: counts are descriptions, not quality scores. Synthetic rates use many-to-many matches within the stated tolerance."
+}

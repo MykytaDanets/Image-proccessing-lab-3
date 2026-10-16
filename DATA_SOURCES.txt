@@ -1,0 +1,13 @@
+camera.png: Camera photograph, distributed by scikit-image as skimage.data.camera.
+Source documentation: https://scikit-image.org/docs/stable/api/skimage.data.html#skimage.data.camera
+Camera photograph by Lav Varshney. The scikit-image documentation identifies the image as CC0, with no copyright restrictions.
+The image is included locally; scikit-image is NOT required to run this project.
+synthetic_scene: original generated experimental image in project.py, with three simple shapes and known drawn boundaries. It is labelled synthetic, not a real photograph.
+All derivative images and figures are calculated locally from these inputs.
+Technical sources:
+https://docs.opencv.org/4.x/d5/d0f/tutorial_py_gradients.html
+https://docs.opencv.org/4.x/da/d22/tutorial_py_canny.html
+https://docs.opencv.org/4.x/d5/db5/tutorial_laplace_operator.html
+https://docs.opencv.org/4.x/d4/d86/group__imgproc__filter.html
+https://numpy.org/doc/stable/reference/generated/numpy.hypot.html
+https://matplotlib.org/stable/users/explain/figure/backends.html

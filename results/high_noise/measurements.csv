@@ -1,0 +1,3 @@
+image,edge_pixels,edge_density_percent,boundary_precision,boundary_recall,boundary_f1,tolerance_px
+photo,20258,7.727813720703125,,,,not available
+synthetic,2525,1.7613002232142856,0.5615841584158416,0.89272030651341,0.6894534041858345,2
